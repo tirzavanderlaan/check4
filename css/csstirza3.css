@@ -1,6 +1,11 @@
 @charset "utf-8";
 
-body { background-image: url("../images/background3.jpg")
+body { 
+	background-image: url("../images/background3.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	
 }
 
 h1 {
